@@ -1,6 +1,6 @@
 # Code, Coffee & Innovation ☕ I'm Estuardo Arévalo
 
-## 🚀 Senior Manager of Software Development | Software Architect | AI Enthusiast
+## 🚀 Senior Software Development Manager | Software Architect | AI Enthusiast
 
 Con **más de 20 años de experiencia en desarrollo de software** y **15 años liderando la transformación tecnológica en Webtrack S.A.**, he evolucionado desde programador apasionado hasta arquitecto de soluciones empresariales que impactan la industria logística y de transporte a nivel global.
 
