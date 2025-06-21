@@ -239,31 +239,10 @@ Mi pasión por el desarrollo de software comenzó desde muy joven y después de 
 
 <div align="center">
 
-### **🏆 GitHub Stats**
-![Estuardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=earevaloh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-### **💻 Most Used Languages**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=earevaloh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-### **🔥 GitHub Streak**
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=earevaloh&theme=tokyonight&hide_border=true)
-
 ### **⚡ Activity Graph**
 ![Estuardo's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=earevaloh&theme=tokyo-night&hide_border=true&area=true)
 
 ### **🏅 GitHub Trophies**
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=earevaloh&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6)
-
-</div>
-
----
-
-## 📈 **Contribution Insights:**
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpv/?username=earevaloh&color=blueviolet&style=flat-square&label=Profile+Views)
-![GitHub Followers](https://img.shields.io/github/followers/earevaloh?style=flat-square&color=blue&labelColor=black)
-![GitHub Stars](https://img.shields.io/github/stars/earevaloh?style=flat-square&color=yellow&labelColor=black)
 
 </div>
