@@ -4,9 +4,9 @@
 
 Con **más de 20 años de experiencia en desarrollo de software** y **15 años liderando la transformación tecnológica en Webtrack S.A.**, he evolucionado desde programador apasionado hasta arquitecto de soluciones empresariales que impactan la industria logística y de transporte a nivel global.
 
-Mi trayectoria profesional refleja una dedicación constante a la excelencia técnica y la innovación. Desde mis primeros años como desarrollador, he cultivado una mentalidad de aprendizaje continuo que me ha permitido adaptarme y liderar en un ecosistema tecnológico en constante evolución. En Webtrack S.A., no solo he sido testigo del crecimiento exponencial de la empresa, sino que he sido arquitecto clave de esa transformación, diseñando y ejecutando la estrategia tecnológica que nos posiciona como líderes en el sector.
+**Mi filosofía profesional:** combinando experiencia técnica profunda, liderazgo estratégico y adopción inteligente de IA, creo soluciones que no solo resuelven problemas actuales, sino que anticipan el futuro de la logística digital.
 
-**Mi filosofía profesional** se centra en la convergencia entre experiencia técnica profunda, liderazgo estratégico y la adopción inteligente de tecnologías emergentes, especialmente IA, para crear soluciones que no solo resuelven problemas actuales, sino que anticipan y preparan el futuro de la logística digital.
+> 💡 "El futuro pertenece a quienes sepan dirigir sinfonías de IA para crear soluciones que transformen industrias."
 
 ---
 
@@ -231,5 +231,4 @@ Mi pasión por el desarrollo de software comenzó desde muy joven y después de 
 
 ---
 
-> 💡 "El futuro del desarrollo no es reemplazar al programador, sino potenciar su creatividad y eficiencia con las herramientas adecuadas."
-
+> 🚀 "Mientras otros temen ser reemplazados por IA, los visionarios la usan para construir el futuro."
