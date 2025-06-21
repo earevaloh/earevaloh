@@ -190,25 +190,6 @@ Especialista en **prompting** y integración de herramientas de IA en el workflo
 
 ---
 
-## 🤖 **AI-Powered Development:**
-
-Especialista en Integración de herramientas de IA en el workflow de desarrollo:
-
-**Herramientas que utilizo:**
-- GitHub Copilot, OpenAI Codex, ChatGPT, Claude, DeepSeek, Gemini
-- Bolt, ElevenLabs, VoiceFlow
-
-**Aplicaciones en desarrollo:**
-- ⚡ Agilización de tareas de desarrollo
-- � Generación automática de documentación  
-- 🔍 Revisión inteligente de código
-- 🧪 Creación de pruebas unitarias
-- 🏗️ Prototipado rápido de proyectos
-
-> *"La IA no es el futuro, es el presente. No se trata de ser reemplazados, sino de evolucionar junto a ella. Aquellos que cultiven el pensamiento crítico y aprendan a orquestar estas herramientas inteligentemente, no solo sobrevivirán al cambio, sino que liderarán la transformación digital. La verdadera ventaja competitiva ya no radica en programar código, sino en diseñar soluciones que amplifiquen nuestra creatividad humana."*
-
----
-
 ## 🎯 **Especialización:**
 
 - **Arquitectura de Software** - Diseño de sistemas escalables y robustos
